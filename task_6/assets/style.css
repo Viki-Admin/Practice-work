@@ -1,0 +1,199 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(119, 117, 117);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+/* main */
+.main_wrapper
+{
+    min-height: 550px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+} */
+.task_list
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    
+    width: 300px;
+    height: 250px;
+    background-color: #fff;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.avto {
+    width: 300px;
+    height: 250px;
+    background-color: #fff;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form_1 {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.form_2 {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.form_3 {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+.form_4 {
+    width: 250px;
+    height: 30px;
+    border-radius: black;
+    margin-bottom: 10px;
+}
+
+.form_5 {
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    margin-bottom: 10px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form_6 {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    color: #000000;
+    border-radius: 5px;
+    margin: 10px 20px 20px 39px;
+    cursor: pointer;
+}
+
+hr
+{
+    min-width: 300px;
+    margin: 10px 0px 15px 0px;
+}
+
+.list
+{
+
+    border: 1px solid #ffffff;
+    min-width: 300px;
+    min-height: 400px;
+    /* overflow-x: auto;
+    padding: 73px 30px 229px 30px; */
+    /* Включаем отображение полосы прокрутки по вертикали */
+    box-shadow: 0px 1px 0px 1px rgba(129, 129, 129, 0.5);
+
+    
+}
+
+.task
+{
+    text-align: center;
+    font-size: 15px;
+    margin: 40px 40px 40px 40px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+button
+{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: #fff;
+}
+
+.d1 
+{
+    width: 41px;
+    height: 43px;
+    border: solid 3px rgb(204, 62, 62);
+    border-radius: 80px;
+    margin: -9px 46px 7px 22px;
+}
+
+.d2
+{
+    width: 41px;
+    height: 43px;
+    border: solid 3px rgb(32, 151, 72);
+    border-radius: 80px;
+    margin: -9px 46px 7px 22px;
+}
+
+
+.text 
+{
+
+    min-height: 30px;
+    margin: 0px 22px 5px 15px;
+}
+
+.dis
+{
+    display: flex;
+}
+
+.mess
+{
+    color: green;
+    text-align: center;
+}
+
+.error
+{
+    color: red;
+    text-align: center;
+}
+
+/* FOOTER */
+footer
+{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(119, 117, 117);
+}
