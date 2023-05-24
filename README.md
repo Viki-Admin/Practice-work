@@ -9,4 +9,4 @@ This is the Hello World example from the git tutorial.
 ![rqgEs63FrhU](https://github.com/Viki-Admin/Practice-work/assets/121045951/96725903-d4bb-4c89-9b59-e7e2c6c94400)
 # `Task` 5:
 https://www.sololearn.com/certificates/CT-P1Z95DKC
-
+![-dP2OTfnJoI](https://github.com/Viki-Admin/Practice-work/assets/121045951/04be3f2c-2a1f-490b-ac67-5989f4d4a8f3)
